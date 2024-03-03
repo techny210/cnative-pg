@@ -7,7 +7,4 @@ spec:
   instances: 3
 
   storage:
-    size: 3Gi
-
-  monitoring:
-    enablePodMonitor: true
+    size: 1Gi
